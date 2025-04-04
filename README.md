@@ -23,7 +23,7 @@ Before running the project, ensure you have the following installed:
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/SakUp004/plant-disease-detection.git
-cd plant-disease-detector
+cd plant-disease-detection
 ```
 
 ### 2. Set up the Python Environment
