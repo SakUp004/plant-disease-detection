@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-/plant-Rahulbarua124isease-detector.git
+git clone https://github.com/SakUp004/plant-disease-detection.git
 cd plant-disease-detector
 ```
 
